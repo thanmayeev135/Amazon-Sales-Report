@@ -23,9 +23,3 @@ Deliverables:
 2. Visualiza ons (charts, graphs) illustrating various aspects of the data analysis. 
 3. Insights on product preferences, customer behaviour, and geographical sales distribution. 
 4. Recommendations for improving sales strategies, inventory management, and customer service.
-
-Expected Outcome: 
-By conducting a thorough analysis of the Amazon sales report, the goal is to gain valuable insights that can be 
-leveraged to optimize business operations, enhance customer experience, and drive revenue growth. The 
-analysis should provide actionable recommendations tailored to the specific needs and challenges of the 
-business.
